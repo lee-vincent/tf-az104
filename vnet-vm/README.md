@@ -1,0 +1,1 @@
+Azure example - deploys a resource group, vnet, subnet, nsg, nic, public ip, and windows vm
